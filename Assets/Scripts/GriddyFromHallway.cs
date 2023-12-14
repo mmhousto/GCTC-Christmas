@@ -10,7 +10,6 @@ public class GriddyFromHallway : MonoBehaviour
     public Transform destination;
     private Animator anim;
     bool arrived;
-    public TextMeshProUGUI myUI;
 
     // Start is called before the first frame update
     void Start()
